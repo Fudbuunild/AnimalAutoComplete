@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnimalAutoComplete/static/css/main.9917bb65.css",
+    "main.js": "/AnimalAutoComplete/static/js/main.64a49f2e.js",
+    "static/js/453.1c2d4bbf.chunk.js": "/AnimalAutoComplete/static/js/453.1c2d4bbf.chunk.js",
+    "index.html": "/AnimalAutoComplete/index.html",
+    "main.9917bb65.css.map": "/AnimalAutoComplete/static/css/main.9917bb65.css.map",
+    "main.64a49f2e.js.map": "/AnimalAutoComplete/static/js/main.64a49f2e.js.map",
+    "453.1c2d4bbf.chunk.js.map": "/AnimalAutoComplete/static/js/453.1c2d4bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9917bb65.css",
+    "static/js/main.64a49f2e.js"
+  ]
+}
